@@ -1,8 +1,19 @@
-# React + Vite
+# 🎁 Gift Shop
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Gift Shop**, a simple yet elegant e-commerce platform where visitors can buy gifts and receive personalized recommendations. Enjoy easy buying options and a seamless shopping experience.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **User-Friendly Shopping**: Browse and purchase gifts effortlessly.
+- **Personalized Recommendations**: Discover other products you might love.
+- **Easy Payment Options**: Fast and secure checkout process.
+- **Admin Panel**:
+  - Send promotional emails.
+  - Manage orders and inventory.
+
+## Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript
+- **Backend**: Node.js, Express
+- **Database**: MongoDB
+- **Email Service**: Nodemailer
