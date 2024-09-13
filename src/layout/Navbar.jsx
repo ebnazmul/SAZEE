@@ -2,10 +2,7 @@
 
 const Navbar = () => {
     return (
-        <div className="py-4 bg-gray-300">
-            
-
-            
+        <div className="h-20">
         </div>
     );
 };
