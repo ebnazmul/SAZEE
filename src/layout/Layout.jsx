@@ -3,7 +3,7 @@ import Navbar from "./Navbar";
 
 const Layout = () => {
   return (
-    <div className="bg-[#003049] min-h-screen text-[#FDF0D5] font-tiro">
+    <div className="bg-[#003049] min-h-screen text-[#FDF0D5] font-tiro overflow-x-hidden">
       <Navbar />
       <Outlet />
     </div>
